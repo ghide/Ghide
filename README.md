@@ -10,7 +10,7 @@
 <img align="right" height="150" width="210" src="data.gif">
 
 - 🔭 Currently I am working on: Java, MYSQL, API, Spring Frame Work and HTML.
-. 🌱 Also I am learning in depth: Software Development Program. 
+. 🌱 Also I am learning in depth about Software Development Program. 
 . 👯 I’m looking to collaborate on: WebDevelopment Projects
 . 🤔 Looking for help with: Java Coding and Spring Frame Work.
 . 💬 Ask me about: coding, technology, languages and ideas
