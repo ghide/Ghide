@@ -13,7 +13,7 @@
 . 🌱 Also I am learning in depth: Software Development Program. 
 . 👯 I’m looking to collaborate on: WebDevelopment Projects
 . 🤔 Looking for help with: Java Coding and Spring Frame Work.
-. 💬 Ask me about: Coding,Science, Languages 
+. 💬 Ask me about: coding, technology, languages and ideas
 .⚡ Hobbies: books, traveling, hiking
 
 
