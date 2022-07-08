@@ -9,10 +9,11 @@
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
 <img align="right" height="150" width="210" src="data.gif">
 
-- 🔭 I’m currently working on ...Java,SQL,API and Spring Frame Work
-- 🌱 I’m currently learning ...Java and Spring Frame Work
-- 👯 I’m looking to collaborate on ...WebDevelopment
-- 🤔 I’m looking for help with ... Java Coding
+- 🔭 I’m currently working on: Java,MYSQL,API and Spring Frame Work,HTML
+- 🌱 I’m currently learning: Software Development Program 
+- 👯 I’m looking to collaborate on: WebDevelopment Projects
+- 🤔 I’m looking for help with: Java Coding and Spring Frame Work.
 - 📫 How to reach me: You can reach via email :ghidehab2@gmail.com
+
 
 
