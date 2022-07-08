@@ -18,6 +18,8 @@
 
 
 .📫 How to reach me: You can reach via email :ghidehab2@gmail.com
+ .LinkedIn: linkedin.com/in/ghide-gebremichael-333153140
+
  
 
 
