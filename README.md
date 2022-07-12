@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left">  I'm a software developer interested in Java code and Banckend Software Development. </h3>
+<h3 align="left">  I'm a software developer interested in Java code. </h3>
 
 ---
 
