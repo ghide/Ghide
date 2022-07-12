@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left">  I'm a software developer interested in Java code. </h3>
+<h3 align="left">  I'm a software developer, particurily interested in Java code. </h3>
 
 ---
 
